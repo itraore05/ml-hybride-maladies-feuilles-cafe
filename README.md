@@ -90,7 +90,7 @@ ml-hybride-maladies-feuilles-cafe/
 
 ```bash
 git clone https://github.com/itraore05/ml-hybride-maladies-feuilles-cafe.git
-pip install pandas numpy scikit-learn xgboost lightgbm umap-learn shap matplotlib seaborn scipy openpyxl
+pip install pandas numpy scikit-learn xgboost lightgbm umap-learn shap matplotlib seaborn scipy statsmodels openpyxl
 ```
 
 Ouvrir le notebook dans Jupyter ou Google Colab et exécuter les cellules dans l'ordre.
